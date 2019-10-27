@@ -8,6 +8,7 @@ import ugame
 import stage
 import constants
 
+
 def game_scene():
     image_bank_1 = stage.Bank.from_bmp16("space_aliens.bmp")
 
